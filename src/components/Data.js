@@ -28,8 +28,8 @@ export const  Data = [
         a:"Brendon ",
         b:"Brendon Mac",
         c:"Bretly",
-        d:"Brendon Eich",
-        ans:"Brendon Eich"
+        d:"Brendan Eich",
+        ans:"Brendan Eich"
     },
     {
         q:"Who Develope ReactJS?",
@@ -37,7 +37,7 @@ export const  Data = [
         b:"Jordan ",
         c:"Jordan King",
         d:"Jordan sen",
-        ans:"Jordan Walk"
+        ans:"Jordan Walke"
 
     },
 ]
